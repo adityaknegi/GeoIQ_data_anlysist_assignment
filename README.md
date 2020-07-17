@@ -1,15 +1,13 @@
 # GeoIQ_data_anlysist_assignment
 
-##
 
 
-## html file for Notebook 
 
-Assignment  file:
+## Assignment  file:
 
-part_1-EDA.ipynb
+### part 1 - Notebook 
 
-Notebook for part 1 
+Assignment/part_1-EDA.ipynb
 
 	1. Identify the largest Ethnic group in Singapore. Their average population growth over the
 	years and what proportion of the total population do they constitute.
@@ -22,10 +20,17 @@ Notebook for part 1
 	4. Plot a graph for population trends
 
 
+![Population_by_ethnicity](./image/Population_by_ethnicity.png)
+
+![Population_by_age](./image/population_by_age.png)
+
+### Population growth rate by age group
 ![growth rate by age group](./image/growth_rate_by_age_group.png)
 
 
-part_2-latitude_longitude_info.ipynb
+### part 2 - Notebook 
+
+Assignment/part_2-latitude_longitude_info.ipynb
 
 
 **Regex to parse similar pattern to following code snnipet**
@@ -44,3 +49,6 @@ and convert to csv file
 |-----------|:-----------:|-----------:|  
 | 9795626cfd584471ab4406d756a00baf | 19.041691972000024 | 72.85052482000003 |  
 | 82a31b114c0243859e73c4f5f1332554	 | 19.047690380000063 | 72.85787174600006<br/>second line of text | 
+
+
+check html file for Notebook (notebook html files)
