@@ -1,6 +1,12 @@
 # GeoIQ_data_anlysist_assignment
 
 
+## Installing
+
+To install the dependencies, run
+```bash
+pip install -r requirements.txt
+```
 
 
 ## Assignment  file:
@@ -25,7 +31,12 @@ Assignment/part_1-EDA.ipynb
 ![Population_by_age](./image/population_by_age.png)
 
 ### Population growth rate by age group
+"""
+Life expectancy incresed and 
+    decrease in number of new born child 
+ """   
 ![growth rate by age group](./image/growth_rate_by_age_group.png)
+
 
 
 ### part 2 - Notebook 
@@ -51,4 +62,6 @@ and convert to csv file
 | 82a31b114c0243859e73c4f5f1332554	 | 19.047690380000063 | 72.85787174600006<br/>second line of text | 
 
 
-check html file for Notebook (notebook html files)
+
+### FOR QUICK LOOKUP 
+Check html file for Notebook part1 and part2
